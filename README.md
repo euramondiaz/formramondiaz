@@ -1,5 +1,8 @@
 # Formulário de Criação de Nova Conta
 
+![Logo do Meu Projeto](https://github.com/euramondiaz/formramondiaz/blob/main/img/layout.png)
+
+
 [Acesse a deploy do projeto](https://darling-donut-a5f326.netlify.app/)
 
 
