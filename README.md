@@ -45,7 +45,7 @@ cd nome-do-repositorio
 
 ## licença
 
--Este projeto está licenciado sob a licença MIT.
+- Este projeto está licenciado sob a licença MIT.
 
 ## Agradecimentos
 - Google Fonts por fornecer as fontes utilizadas no projeto.
