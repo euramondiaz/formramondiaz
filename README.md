@@ -56,7 +56,7 @@ cd nome-do-repositorio
 
 ## Agradecimentos
 - Google Fonts por fornecer as fontes utilizadas no projeto.
-- Ao meu mentor Iury rodrigues oelo suporte!
+- Ao meu mentor Iury rodrigues pelo suporte!
 
 
 
