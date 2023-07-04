@@ -41,7 +41,7 @@ cd nome-do-repositorio
 - O formulário possui os seguintes campos: nome do usuário, email, senha e confirmação de senha.
 - A validação dos campos é realizada em tempo real, com mensagens de erro exibidas abaixo de cada campo, caso necessário.
 - O campo "Nome do usuário" é obrigatório.,
-- O campo "Email" é obrigatório e deve ser um endereço de email válido.
+- O campo "Email" é obrigatório.
 - O campo "Senha" é obrigatório e deve conter pelo menos 8 caracteres.
 - O campo "Confirmação de senha" é obrigatório e deve ser igual ao campo "Senha".
 - O formulário só pode ser enviado se todos os campos estiverem preenchidos corretamente.
